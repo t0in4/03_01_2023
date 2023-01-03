@@ -20,7 +20,7 @@ Sample Output 1:
 <pre>
       Scanner scanner = new Scanner(System.in);
       int count = 0;
-      while (scanner.nextInt (<?>) 0) {
+      while (scanner.nextInt ..<?>.. 0) {
             // дописать код
       }
       System.out.println(count);
